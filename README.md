@@ -12,3 +12,4 @@ provisioning resources using Terraform
 * Deploy a database server instance beneath the web server.
 * Establish a Network Address Translation (NAT) gateway.
 * Create a route table tailored for the NAT gateway and associate it.
+  ![image](https://github.com/Rao-Ahsan/Terraform_Provisioning/assets/65136938/2030a4ee-defa-4aa4-af42-7578e4c0668a)
